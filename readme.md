@@ -189,7 +189,7 @@ Exactly one of the outputs is 1 and all the rest are 0s
 
 **Example: 2-to-1 MUX**
 <p align="center">
-  <img src="Capture7.PNG" width="200" height="150">
+  <img src="Capture8.PNG" width="200" height="150">
 </p>
 
 <div align="center">
